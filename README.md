@@ -1,4 +1,4 @@
-# IOTANmining
+# IOTAN Wallet and Mining
 IOTAN Mining 1.0
 
 Mine IOTAN Coin for free. Easy to use. Tool for website mining coming soon.
