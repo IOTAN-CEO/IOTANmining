@@ -23,9 +23,9 @@ Open your wallet.
 
 Create a .bat file named mine.bat in the same folder where you extracted iotan-cli.exe and paste the following text into mine.bat.
 
-@echo off set SCRIPT_PATH=%cd% cd %SCRIPT_PATH% echo Press [CTRL+C] to stop mining. :begin iotan-cli.exe generate 1 goto begin
+@echo off set SCRIPT_PATH=%cd% cd %SCRIPT_PATH% echo Press [CTRL+C] to stop mining. :begin iotan-cli.exe generate 2 goto begin
 
-Save the file.
+Save the file. (Use by Generate 2 a other number dont us 1)
 
 Execute mine.bat to start mining your first block.
 
